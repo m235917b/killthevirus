@@ -1,0 +1,11 @@
+name: server
+description: A local server host for "Kill the Virus!"
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  mime_type:
+
+dev_dependencies:
+  pedantic: ^1.8.0

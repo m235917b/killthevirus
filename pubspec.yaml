@@ -1,0 +1,13 @@
+name: virusgame
+description: Kill the Virus!
+
+environment:
+  sdk: '>=2.7.0 <3.0.0'
+
+dependencies:
+  http:
+
+dev_dependencies:
+  build_runner: ^1.6.0
+  build_web_compilers: ^2.3.0
+  pedantic: ^1.8.0
